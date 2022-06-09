@@ -100,7 +100,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-WSGI_APPLICATION = 'liliMontano.wsgi.application'
+
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
 

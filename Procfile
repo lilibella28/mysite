@@ -1,1 +1,1 @@
-web: gunicorn liliMontano.wsgi
+web: gunicorn lilimontano.wsgi
