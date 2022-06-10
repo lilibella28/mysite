@@ -1,4 +1,41 @@
+main{
+    margin-bottom: 50px;
+}
 
+img{
+    width: 450px;
+    margin: 35px;
+    border-radius: 5px;
+}
 
+.topheading{
+    margin-top: 150px;
+}
 
+h1.center-align{
+    font-weight: 700;
+    
+} 
+
+.card .card-content .card-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+@media only screen and (max-width: 860px) {
+
+    .row .col.s4 {
+      width: 100% !important;
+      padding-top: 50px !important;
+    }
+    .card .card-image img {
+    
+        top: 10px !important;
+        width: 80% !important;
+        
+
+    }
+   
+    
+
+  }
 
