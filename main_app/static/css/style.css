@@ -39,7 +39,12 @@ h1.center-align{
         
 
     }
-   
+    .row .col.s3{
+        width: 100% !important;
+    }
+   img{
+       width: 250px !important;
+   }
     
 
   }
