@@ -22,6 +22,7 @@ def contacts(request):
 def experience(request):
     return render(request, 'experience.html')
 
+
     # Views are the controllorer in Django
     # Django file path, not request, everything is handle inside the views
     # find the matching end point in certain app. 
